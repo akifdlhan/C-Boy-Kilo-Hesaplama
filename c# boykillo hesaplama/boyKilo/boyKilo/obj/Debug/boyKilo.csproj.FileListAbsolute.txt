@@ -1,0 +1,11 @@
+C:\Users\MONSTER\Desktop\c# boykillo hesaplama\boyKilo\boyKilo\bin\Debug\boyKilo.exe.config
+C:\Users\MONSTER\Desktop\c# boykillo hesaplama\boyKilo\boyKilo\bin\Debug\boyKilo.exe
+C:\Users\MONSTER\Desktop\c# boykillo hesaplama\boyKilo\boyKilo\bin\Debug\boyKilo.pdb
+C:\Users\MONSTER\Desktop\c# boykillo hesaplama\boyKilo\boyKilo\obj\Debug\boyKilo.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\c# boykillo hesaplama\boyKilo\boyKilo\obj\Debug\boyKilo.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\c# boykillo hesaplama\boyKilo\boyKilo\obj\Debug\boyKilo.Form1.resources
+C:\Users\MONSTER\Desktop\c# boykillo hesaplama\boyKilo\boyKilo\obj\Debug\boyKilo.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\c# boykillo hesaplama\boyKilo\boyKilo\obj\Debug\boyKilo.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\c# boykillo hesaplama\boyKilo\boyKilo\obj\Debug\boyKilo.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\c# boykillo hesaplama\boyKilo\boyKilo\obj\Debug\boyKilo.exe
+C:\Users\MONSTER\Desktop\c# boykillo hesaplama\boyKilo\boyKilo\obj\Debug\boyKilo.pdb
